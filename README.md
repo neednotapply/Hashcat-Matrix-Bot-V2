@@ -1,6 +1,6 @@
-# Hashcat Discord Bot V2
+# Hashcat Matrix Bot V2
 
-Harness the power of Hashcat directly from Discord. Crack hashes with ease and efficiency using the renowned Hashcat password recovery tool, all within the convenience of your Discord server.
+Harness the power of Hashcat directly from Matrix. Crack hashes with ease and efficiency using the renowned Hashcat password recovery tool, all within the convenience of your Matrix server.
 
 ```
  __________                  __             __     ________             .___ 
